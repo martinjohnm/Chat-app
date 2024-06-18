@@ -1,3 +1,3 @@
 
 
-# a chat app using typescript react and prisma
+# a chat app using typescript react and Mongodb express socket.io
